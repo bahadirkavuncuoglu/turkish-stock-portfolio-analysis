@@ -17,7 +17,7 @@ The five stocks were an exploratory pick, not chosen with a strategy. This is a 
 
 ## Main finding: a TL deposit beat everything
 
-![Cumulative returns](images/cumulative_returns.png)
+![Cumulative returns](Images/cumulative_returns.png)
 
 Over the period, the equal-weighted portfolio returned about +1.8% and the BIST 100 about -7%. A TL deposit at the central bank policy rate (around 48% a year on average) would have returned about +53%.
 
@@ -30,7 +30,7 @@ So the portfolio slightly beat the index, but lost to a risk-free deposit by aro
 - **Mostly stock-specific risk:** the stocks have low correlations with each other (0.11 to 0.32), betas below 1 (0.50 to 0.87), and the index explains only 3% to 20% of their moves (R-squared).
 - **Downside risk:** the maximum drawdown was -34%, most of it in the first few weeks. The 1-day VaR was -3.15% at 95% and -5.89% at 99%.
 
-![Efficient frontier](images/efficient_frontier.png)
+![Efficient frontier](Images/efficient_frontier.png)
 
 ## What I changed when I revisited it
 
